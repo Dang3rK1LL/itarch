@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SgmogmPJvjcN8jB3bdTkRWp8O/gAyRpRS7Gl+Q2Lc3IPTXZ25nzNTR7X5IWaTt2xtzDnsKE28kjVtAA9MC4RoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\damja\\source\\repos\\itarch\\itarch_aspwebapp\\itarch_aspwebapp\\itarch_aspwebapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\damja\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
